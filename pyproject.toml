@@ -6,9 +6,9 @@ build-backend = "setuptools.build_meta"
 name = "BUSTER_BLOCK_PROJECT"
 version = "0.1.0"
 description = "An ETL project for extracting, transforming, and loading data."
-authors = [{name = ["Praise", "Nasif", "Alex I", "Umair", "Jake D"]]
+authors = [{name = "Praise"}, {name = "Nasif"}, {name = "Alex I"}, {name = "Umair"}, {name = "Jake D"}]
 readme = "README.md"
-requires-python = ">=3.6"
+requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
