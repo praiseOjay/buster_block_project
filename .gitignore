@@ -41,8 +41,9 @@ htmlcov/
 
 # Logs
 *.log
-logs/
 *.tmp
+tests/logs/*
+!tests/logs/.gitkeep
 
 # Data files (optional – keep if you want sample data) - don't track large datasets as it will bloat the repo
 data/
