@@ -1,7 +1,7 @@
-# Buster Block ETL Project – Group 1 (Praise, Umair, Alex I, Jake D & Nasif)
+# BluckBoster ETL Project – Group 1 (Praise, Umair, Alex I, Jake D & Nasif)
 
 ## 1. Overview
-A complete ETL pipeline built by the Buster Block team to extract, clean, transform
+A complete ETL pipeline built by the BluckBoster team to extract, clean, transform
 & analyse customer transaction data.
 
 ## 2. Architecture Diagram
@@ -43,6 +43,6 @@ Include images here:
 ## 8. Presentation
 todo 
 - PDF: [`final_presentation.pdf`](slides/final_presentation.pdf)  
-- Google Slides: https://docs.google.com/presentation/xxxxx  
+- Google Slides: https://docs.google.com/presentation/d/1pNv_0ZWMlr0XQ92OP70IvmhpW_68Y9a367hDA3c8zFI
 
 ---
