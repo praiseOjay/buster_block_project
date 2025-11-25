@@ -27,7 +27,7 @@ Your username and password can be found in your Noodle profile.
 
 The following is the Entity Relationship Diagram (ERD) for the database:
 
-![main ERD](./images/mainERD.png)
+![main ERD](./docs/images/mainERD.png)
 
 ---
 
