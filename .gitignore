@@ -25,6 +25,10 @@ ENV/
 .pytest_cache/
 .cache/
 
+# Coverage reports
+.coverage
+htmlcov/
+
 # VSCode
 .vscode/
 
@@ -40,7 +44,6 @@ ENV/
 logs/
 *.tmp
 
-# Data files (optional – keep if you want sample data)
-data/raw/
-data/interim/
-data/tmp/
+# Data files (optional – keep if you want sample data) - don't track large datasets as it will bloat the repo
+data/
+*.csv
