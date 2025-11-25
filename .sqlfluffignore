@@ -1,8 +1,5 @@
-# Ignore data files
 data/
 
-# Ignore test folder
 tests/
 
-# Ignore cache folder created by SQLFluff
 .sqlfluff_cache/
