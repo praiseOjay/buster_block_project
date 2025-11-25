@@ -5,7 +5,8 @@ A complete ETL pipeline built by the Buster Block team to extract, clean, transf
 & analyse customer transaction data.
 
 ## 2. Architecture Diagram
-![ETL Pipeline](images/etl_diagram.png)
+![ETL Pipeline](images/etl_diagram.png) 
+todo = update later
 
 ## 3. Tech Stack
 - Python - Pandas, NumPy, Matplotlib, Seaborn (Data cleaning, Transformation, Analysis & visualisation)
@@ -18,56 +19,30 @@ A complete ETL pipeline built by the Buster Block team to extract, clean, transf
 
 ## 4. ETL Pipeline
 
-### 🔹 Extract
+### Extract
 - Connect to online Postgres database  
 - Run SQL queries  
-- Save raw data into `data/`  
+- Save raw data into `data/raw`  
 
-### 🔹 Transform
-- Clean invalid rows  
-- Normalise schema  
-- Create new calculated fields  
-- Join customers + transactions  
-- Save `high_value_customers.csv` to `data/processed/`
+### Transform
+Todo
 
-### 🔹 Load
-- Load transformed data into target PostgreSQL database
+### Load
+- Load transformed data into csv files in data folder
 
 ---
 
 ## 5. Data Analysis
 See full notebook:  
-➡️ [`analysis.ipynb`](notebooks/analysis.ipynb)
+[`analysis.ipynb`](notebooks/analysis.ipynb)
 
+todo
 Include images here:
 
-![Customer Spend](images/customer_spend.png)
-
----
-
-## 6. Key Insights
-- 🔥 Insight 1  
-- 🔥 Insight 2  
-- 🔥 Insight 3  
-
----
-
-## 7. Future Improvements
-- Real-time streaming with Kinesis  
-- Airflow or Step Functions orchestration  
-- Deploy as full analytics pipeline on AWS  
-
----
 
 ## 8. Presentation
-- 📄 PDF: [`final_presentation.pdf`](presentations/final_presentation.pdf)  
-- 🎞 Google Slides: https://docs.google.com/presentation/xxxxx  
+todo 
+- PDF: [`final_presentation.pdf`](slides/final_presentation.pdf)  
+- Google Slides: https://docs.google.com/presentation/xxxxx  
 
 ---
-
-## 9. Team
-- Praise  
-- Nasif  
-- Alex  
-- Umair  
-- Jake  
