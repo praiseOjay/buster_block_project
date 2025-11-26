@@ -30,28 +30,28 @@ except Exception as e:
     print(e)
     raise
 
-# Load SQL file
-sql_file_path = Path("src/sql/test.sql")
+# # Load SQL file
+# sql_file_path = Path("src/sql/test.sql")
 
-print("\nLoading SQL file:", sql_file_path)
+# print("\nLoading SQL file:", sql_file_path)
 
-with open(sql_file_path, "r") as file:
-    sql_query = file.read()
+# with open(sql_file_path, "r") as file:
+#     sql_query = file.read()
 
-# Execute SQL query
-try:
-    df = pd.read_sql(sql_query, engine)
-    print("SQL query executed and data loaded into DataFrame")
-except Exception as e:
-    print("\n Error executing SQL query:")
-    print(e)
-    raise
+# # Execute SQL query
+# try:
+#     df = pd.read_sql(sql_query, engine)
+#     print("SQL query executed and data loaded into DataFrame")
+# except Exception as e:
+#     print("\n Error executing SQL query:")
+#     print(e)
+#     raise
 
 
-# Save CSV file
-output_path = Path("data/raw/test_saved.csv")
-output_path.parent.mkdir(parents=True, exist_ok=True)
+# # Save CSV file
+# output_path = Path("data/raw/test_saved.csv")
+# output_path.parent.mkdir(parents=True, exist_ok=True)
 
-df.to_csv(output_path, index=False)
+# df.to_csv(output_path, index=False)
 
-print("\nData saved to CSV file successfully at:", output_path.resolve())
+# print("\nData saved to CSV file successfully at:", output_path.resolve())
