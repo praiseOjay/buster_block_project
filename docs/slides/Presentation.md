@@ -1,50 +1,51 @@
 # Buster Block Team 1 Presentation
 
+---
 
-1) Monthly revenue/by rating and seasonal rental patterns
-
-
-
+## 1. Monthly Revenue by Rating & Seasonal Rental Patterns
 
 
 
-![alt text](image.png){width=50%}
+<img src="image.png" width="700"/>
 
+<img src="image-1.png" width="700"/>
 
+<img src="image-2.png" width="700"/>
 
-![alt text](image-1.png)
+---
 
-![alt text](image-2.png)
-1) Device/ average rental days by device and average payment per rental device.
+## 2. Average Rental Days & Payment by Device Type
 
+<div style="display: flex; gap: 10px;">
+<img src="image-3.png" width="500"/>
+<img src="image-4.png" width="500"/>
+</div>
 
-2) By store  
+#
 
-![alt text](image-3.png)
+<div style="display: flex; gap: 10px;">
+<img src="image-14.png" width="500"/>
+<img src="image-15.png" width="500"/>
+</div>
+---
 
-![alt text](image-4.png)
+## 3. Revenue by Country
 
+<img src="image-7.png" width="700"/>
 
-![alt text](image-5.png)![alt text](image-6.png)
+<img src="image-8.png" width="700"/>
 
+---
 
-1) By country
+## 4. Category Popularity by Country
 
-![alt text](image-7.png)
+<img src="image-10.png" width="700"/>
 
-![alt text](image-8.png)
+<div style="display: flex; gap: 10px;">
+<img src="image-11.png" width="500"/>
+<img src="image-12.png" width="500"/>
+</div>
 
-![alt text](image-9.png)
-4) Category popularity by country
+#
 
-![alt text](image-10.png)
-
-
-![alt text](image-11.png)
-
-
-
-![alt text](image-12.png)
-
-
-![alt text](image-13.png)
+<img src="image-13.png" width="700"/>
