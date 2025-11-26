@@ -1,5 +1,7 @@
 # Buster Block Team 1 Presentation
 
+<img src="image-22.png" width="700"/>
+
 ---
 
 ## 1. Monthly Revenue by Rating & Seasonal Rental Patterns
@@ -75,6 +77,21 @@ The only major difference is total spend — Apple users contribute more revenue
 
 ## 3. Revenue, Customers and Category by Store
 
+### Store Revenue Summary By Inventory 
+
+| Store               | Revenue   |
+|---------------------|-----------|
+| Store 1 (Canada)    | 30628.91  |
+| Store 2 (Australia) | 30683.13  |
+
+
+### Store Revenue Summary By Customer 
+
+| Store               | Revenue   |
+|---------------------|-----------|
+| Store 1 (Canada)    | 33621.42  |
+| Store 2 (Australia) | 27690.62  |
+
 ### Revenue and Customer Count
 
 <div style="display: flex; gap: 10px;">
@@ -133,6 +150,7 @@ These two graphs show us the top and bottom 10 countries by amount of rentals, I
 ---
 
 # Interesting Finds
+
 
 It was found that all movie were released in 2006, however almost 99% of rentals occured in 2005, which indicates that there must be an issue with the data.
 
