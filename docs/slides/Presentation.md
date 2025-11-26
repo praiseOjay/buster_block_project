@@ -113,13 +113,13 @@ It can be seen that the top 10 countries by amount purchased are the same as the
 
 <img src="image-10.png" width="700"/>
 
-The graph shows worldwide data of how often a film of a given category is rented, showing which categories are more popular overall — with Sports films leading, and Music being the least popular.
+The graph shows worldwide data of how of ten a film of a category is rented show which category is more popular overall. This being Sports films and the least popular being Music
 
 <br>
 
 <img src="image-13.png" width="700"/>
 
-This graph shows how many countries have each category as their number one. While Sports dominates in total rentals, Animation appears as the top category in more countries — highlighting that smaller countries may skew results.
+This graph shows the how many countries each country has as its number 1, this shows a change compared to overall by rental but still consistent in the top are still within one place of what they were. the biggest difference is the new category being no countries top but overall is still rented more than categories such as Music and Horror
 
 <br>
 
@@ -128,11 +128,12 @@ This graph shows how many countries have each category as their number one. Whil
 <img src="image-12.png" width="500"/>
 </div>
 
-These two graphs show the top and bottom 10 countries by total number of rentals. India has the most, and Tonga the least, with a 1,554-rental gap. A single rental in Tonga has far greater weight in relative importance compared to one in India — which helps explain why Animation, not Sports, tops the most countries despite not being the most-rented overall.
+These two graphs show us the top and bottom 10 countries by amount of rentals, India making the most and Tonga making the least along with Afghanistan this is is a total difference of 1,554 rentals between Tonga and India causing A rental from Tonga far more influential to the country than a rental in India. This would explain how even though Sports has more rentals overall its animation that is number 1 in more countries.
 
 ---
 
 # Interesting Finds
 
-- All films in the dataset are listed as released in 2006, but almost 99% of rentals occurred in 2005. This points to a **data inconsistency**.
-- The "Runion" entry in the countries table may refer to **Réunion Island**, which is a French overseas territory — not a sovereign country.
+It was found that all movie were released in 2006, however almost 99% of rentals occured in 2005, which indicates that there must be an issue with the data.
+
+There was a country called Runion in the countries table, which may have been for Réunion Island, but that is not a country but a territory.
