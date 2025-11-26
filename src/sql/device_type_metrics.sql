@@ -16,7 +16,7 @@ SELECT
     AVG(DATEDIFF(r.return_date, r.rental_date)) AS avg_rental_duration,
 
     -- Metric 3: Average spend per rental
-    SUM(p.amount) / COUNT(r.rental_id) AS avg_spend_per_rental
+    SUM(p.amount) / NULLIF(COUNT(r.rental_id), 0) AS avg_spend_per_rental
 
 FROM customer AS c
 INNER JOIN app_id AS a 
