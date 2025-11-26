@@ -30,7 +30,7 @@ Summer completely dominates rental activity with over 92% of all transactions oc
 
 ## 2. Average Rental Days & Payment by Device Type
 
-- No customers with no device ID — either Apple or Android
+- No customers with no device ID - either Apple or Android
 - No null or non-numeric amounts in payments or negative payments
 - No missing rental dates
 - 183 missing return dates  
@@ -42,8 +42,8 @@ Summer completely dominates rental activity with over 92% of all transactions oc
 
 <img src="image-16.png" width="700"/>
 
-- Apple users spent around £916k  
-- Android users spent around £788k  
+- Apple users spent around 916k  
+- Android users spent around 788k  
 - Overall, Apple users generated more revenue, even though the number of users might be similar
 
 <br>
@@ -60,8 +60,8 @@ Summer completely dominates rental activity with over 92% of all transactions oc
 <img src="image-18.png" width="700"/>
 
 - The payment per rental was extremely close:  
-  - Android: £4.20  
-  - Apple: £4.22  
+  - Android: 4.20  
+  - Apple: 4.22  
 - Despite spending more overall, Apple users don't pay more per rental  
   - This means they likely rent more frequently, not at higher prices
 
@@ -89,8 +89,8 @@ These graphs show that Canada outperforms the Australia store in both revenue an
 ### Category Revenue Breakdown
 
 <div style="display: flex; gap: 10px;">
-<img src="image-14.png" width="500"/>
-<img src="image-15.png" width="500"/>
+<img src="image-19.png" width="500"/>
+<img src="image-21.png" width="500"/>
 </div>
 
 These graphs show that both stores have very similar, balanced distributions of revenue across film categories. There are slight differences within these, with Canada (left) earning slightly more from Sports, Sci‑Fi, and Animation, while Australia (right) performs better in Family, Action, Horror, and Classics.
