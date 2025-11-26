@@ -1,0 +1,3 @@
+SELECT *
+FROM app_id
+LIMIT 10;
